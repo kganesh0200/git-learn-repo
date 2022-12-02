@@ -1,1 +1,2 @@
 sample conflict text 3 added from branch 1
+sample conflict text 3 added from branch 2
