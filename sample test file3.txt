@@ -2,15 +2,3 @@ sample conflict text 3 added from branch 1
 sample conflict text 3 added from branch 2
 
 
-uyhgjhg
-gjhygjgj
-vsdvsvsdfv
-sd
-fsd
-f
-sdf
-sd
-f
-sdf
-sd
-f
